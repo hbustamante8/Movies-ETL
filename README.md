@@ -14,3 +14,8 @@ This project will create an automated pipeline that takes in new data, from Wiki
 ## Resources
 
 * Software used: Python 3, Anaconda Navigator, Jupyter Notebook,PostegreSQL, pgAdmin
+
+
+## Outcome
+
+![image](https://user-images.githubusercontent.com/96553992/155865474-6f93a2c3-41f9-46f4-be6d-ca274c353c99.png)
