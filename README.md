@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Amazing prime video team would like to develop an algorithim to predict which low budget movie releasing soon will become popular so they can buy the streaming rights at a bargain. The goal of the project is to provide a clean dataset of movie data so that individuals can use in a hackathon they are sponsoring. This project will create an automated pipeline that takes in new data from Wikipedia, Kaggle metadata, and the MovieLens rating data. The project as a whole performs the extract ,transform, and loads the data into an existing PostgreSQL database. The following is an outline of what the python scripts do.
+Amazing Prime video team would like to develop an algorithm to predict which low budget movie releasing soon will become popular so Amazing Prime can buy the streaming rights at a bargain. The goal of the project is to provide a clean dataset of movie data so that individuals can use in a hackathon that Amazing Prime is sponsoring. This project will create an automated pipeline that takes in new data from Wikipedia, Kaggle metadata, and the MovieLens rating data. The project performs the extract, transform, and loads the data into an existing PostgreSQL database. The following is an outline of what the python scripts do.
 
 
 1. Write an ETL functions that reads the three different data files
@@ -23,4 +23,4 @@ Amazing prime video team would like to develop an algorithim to predict which lo
 
 ## Summary 
 
-The ETL function created collects and cleans the data from the three different data sources (Wikipedia JSON, Kaggle csv and ratings csv. The function merges the data and loads it into PostgreSQL database. Now the tables within the database can be used by the hackathon participants to conduct their analysis.
+The ETL function created collects and cleans the data from the three different data sources (Wikipedia JSON, Kaggle csv, and ratings csv. The function merges the data and loads it into PostgreSQL database. Now the tables within the database can be used by the hackathon participants to conduct their analysis.
