@@ -18,7 +18,7 @@ Amazing Prime video team would like to develop an algorithm to predict which low
 
 ## Outcome
 
-* This is a snapshot of what the movies table looks like after completing the extract,transform, and load.
+* This is a snapshot of what the movies table looks like within pgAdmin 4 after completing the extract,transform, and load.
 
 ![image](https://user-images.githubusercontent.com/96553992/155865474-6f93a2c3-41f9-46f4-be6d-ca274c353c99.png)
 
